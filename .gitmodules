@@ -1,0 +1,6 @@
+[submodule "pdfdecrypt"]
+	path = pdfdecrypt
+	url = git@gist.github.com:67c1d8fe0ae6b9626481cc46722c27c0.git
+[submodule "tuna"]
+	path = tuna
+	url = ../tuna.git
