@@ -4,3 +4,6 @@
 [submodule "tuna"]
 	path = tuna
 	url = ../tuna.git
+[submodule "python-titlecase"]
+	path = python-titlecase
+	url = ../python-titlecase.git
