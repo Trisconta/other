@@ -7,3 +7,6 @@
 [submodule "python-titlecase"]
 	path = python-titlecase
 	url = ../python-titlecase.git
+[submodule "tries"]
+	path = tries
+	url = ../tries.git
