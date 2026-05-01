@@ -1,12 +1,15 @@
 [submodule "pdfdecrypt"]
-	path = pdfdecrypt
+	path = sources/pdfdecrypt
 	url = git@gist.github.com:67c1d8fe0ae6b9626481cc46722c27c0.git
-[submodule "tuna"]
-	path = tuna
+[submodule "sources/tuna"]
+	path = sources/tuna
 	url = ../tuna.git
-[submodule "python-titlecase"]
-	path = python-titlecase
+[submodule "sources/python-titlecase"]
+	path = sources/python-titlecase
 	url = ../python-titlecase.git
-[submodule "tries"]
-	path = tries
+[submodule "sources/tries"]
+	path = sources/tries
 	url = ../tries.git
+[submodule "sources/pyyaml"]
+	path = sources/pyyaml
+	url = ../pyyaml.git
