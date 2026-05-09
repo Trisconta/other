@@ -13,3 +13,6 @@
 [submodule "sources/pyyaml"]
 	path = sources/pyyaml
 	url = ../pyyaml.git
+[submodule "sources/mlinter"]
+	path = sources/mlinter
+	url = ../mlinter.git
