@@ -4,9 +4,6 @@
 [submodule "sources/tuna"]
 	path = sources/tuna
 	url = ../tuna.git
-[submodule "sources/python-titlecase"]
-	path = sources/python-titlecase
-	url = ../python-titlecase.git
 [submodule "sources/tries"]
 	path = sources/tries
 	url = ../tries.git
